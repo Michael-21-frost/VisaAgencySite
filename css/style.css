@@ -1,4 +1,11 @@
- 
+/***
+CONVENANT TRAVEL AGENCY
+15th August, 2024
+All rights reserved.
+Stylesheets for single paged website
+Developer | Michael Otote CEO OTOTECH INDUSTRIES
+
+***/ 
 
  @import url('https://fonts.googleapis.com/css2?family=Nunito:wght@200;300;400;500;600;700&display=swap');
  
@@ -445,6 +452,14 @@ h1{
     .carousel-header .carousel .carousel-indicators {
         padding: 0;
         margin-top: 5%;
+    }
+    .apply-btn{
+        width: 100% !important;
+      
+        
+    }
+    .second-container{
+        margin: 0 !important;
     }
 }
 /*** Carousel Hero Header End ***/
